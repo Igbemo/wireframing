@@ -33,3 +33,19 @@ Layout Structure: Defines the arrangement of elements on the page.
 Navigation: Shows how users will move through the site or application.
 Content Placement: Indicates where text, images, and other content will be positioned.
 Functionality: Outlines key functionalities and interactions.
+
+
+# 2. Types of Wireframes
+					#Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+
+Use:
+Early in the design process
+During brainstorming, concept validation, or requirement gathering
+To communicate structure and basic layout with stakeholders quickly
+To get early feedback before investing time in visuals or interactions
+
+				#High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+Use:
+Later in the design phase
+Before development begins
+For usability testing, stakeholder approval, or developer hand-off
