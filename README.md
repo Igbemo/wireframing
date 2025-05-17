@@ -62,3 +62,26 @@ Developer handoff tools: Inspect elements, copy CSS, and export assets easily.
 
 Why It’s Useful for Wireframing:
 Figma allows teams to quickly sketch, iterate, and refine wireframes, all within one platform. Its intuitive interface and collaboration features streamline the feedback process and help bridge the gap between design and development.
+
+# 4. Benefits of Wireframing in Software Development
+Clarifies Ideas Early
+Wireframes turn concepts into visuals, helping teams spot missing features or confusing steps—like outlining the checkout flow before development starts.
+
+Guides Design
+Start with low-fidelity wireframes for layout and flow. Use high-fidelity versions later to add details like buttons, spacing, and real content.
+
+Improves Team Communication
+Tools like Figma let designers, developers, and stakeholders work on and review the same wireframe. Everyone stays on the same page.
+
+Reduces Mistakes
+Wireframes help avoid costly rework by showing what the product should do and look like early in the process.
+
+How Wireframing Guides the Development Process (Airbnb Example)
+
+Wireframing helps structure and plan each part of the Airbnb platform before coding begins. For example:
+A low-fidelity wireframe maps out how a guest searches for a place, views listings, and books a stay.
+Developers then use this layout to build the search page, listing details, and booking form in the right order.
+A high-fidelity wireframe adds real images, buttons, pricing, and calendar features—guiding UI design and frontend development.
+For the host dashboard, wireframes show how a host can list a property, set availability, and manage bookings—helping backend developers plan database and API structure.
+
+By using wireframes, each team knows what to build, in what sequence, and how it should look and behave—reducing confusion and rework.
