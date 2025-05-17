@@ -49,3 +49,16 @@ Use:
 Later in the design phase
 Before development begins
 For usability testing, stakeholder approval, or developer hand-off
+
+# 3. Figma 
+It is a powerful, browser-based design tool widely used for UI/UX design and wireframing. It supports both low-fidelity and high-fidelity wireframes, making it ideal across all stages of product design.
+
+Key Features:
+Real-time collaboration: Multiple team members can work on the same file simultaneously.
+Cloud-based access: No need for installations; access your designs from anywhere.
+Interactive prototyping: Create clickable prototypes to simulate user flows.
+Design components: Reusable elements for consistent design.
+Developer handoff tools: Inspect elements, copy CSS, and export assets easily.
+
+Why It’s Useful for Wireframing:
+Figma allows teams to quickly sketch, iterate, and refine wireframes, all within one platform. Its intuitive interface and collaboration features streamline the feedback process and help bridge the gap between design and development.
