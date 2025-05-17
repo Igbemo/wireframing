@@ -85,3 +85,36 @@ A high-fidelity wireframe adds real images, buttons, pricing, and calendar featu
 For the host dashboard, wireframes show how a host can list a property, set availability, and manage bookings—helping backend developers plan database and API structure.
 
 By using wireframes, each team knows what to build, in what sequence, and how it should look and behave—reducing confusion and rework.
+
+# 5. Wireframing in Practice
+
+Real-World Scenario: Wireframing in an Electronic Medical Record (EMR) System
+
+Identifying Usability Issues Early
+In a hospital developing a new Electronic Medical Record (EMR) system, the product manager and stakeholders—including doctors, nurses, and administrative staff—had conflicting expectations about how the front-end interface should function.
+During early wireframing sessions, a low-fidelity wireframe was shared showing the dashboard with tabs for "Patient Info," "Medications," and "Lab Results." 
+
+Medical staff raised concerns immediately:
+Too many clicks were needed to access critical patient data.
+The medication section lacked space for dosage history and allergy alerts.
+Administrative staff found the appointment scheduling flow unclear and cluttered.
+
+
+Resolving Issues Before Development
+Thanks to wireframing, these issues were spotted before any code was written.
+
+The design team made the following changes:
+Reorganized layout: Vital patient information (e.g., allergies, last vitals) was moved to the top of the dashboard.
+Combined tabs: Related sections were grouped to reduce the number of clicks.
+Improved form flows: Scheduling and documentation forms were redesigned for clarity and speed.
+
+These updates were tested using high-fidelity wireframes in Figma, allowing stakeholders to click through the interface and give feedback.
+
+Final Impact
+Because these usability issues were caught early through wireframing:
+The development team avoided costly rewrites.
+The final EMR system was faster, clearer, and better aligned with real-world hospital workflows.
+End users adopted the system more easily, with fewer training issues and support tickets.
+
+Conclusion
+This scenario highlights how wireframing plays a vital role in catching usability problems early, aligning expectations, and ensuring that complex systems—like an EMR—are both functional and user-friendly. It saves time, reduces costs, and improves user satisfaction by guiding the design and development process from the start.
